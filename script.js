@@ -101,7 +101,7 @@ class MyReactComponent extends React.Component {
       };
     }
     return (
-      <div>
+      <div class="body">
         <div className="row text-center headerElem">
           <h1>Markdown Previewer</h1>
         </div>
