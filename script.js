@@ -68,6 +68,7 @@ You can also add tables with different text-alignment:
 
 See more of my work: [Open CodePen](https://codepen.io/your-work)
 
+Lastly, we can also add images:
 ![CodePen Logo](https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_logo_icon_169360.png)
 
 `;
