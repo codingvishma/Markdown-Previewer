@@ -47,13 +47,13 @@ img {
 }
 
 @media screen and (max-width: 420px) {
-  body {
+  .body, .headerElem {
     font-size: 0.875rem;
   }
 }
 
 @media screen and (max-width: 650px) {
-  body {
+  .body, .headerElem {
     margin: 5px 0;
   }
 }
