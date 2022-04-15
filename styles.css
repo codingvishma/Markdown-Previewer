@@ -1,0 +1,53 @@
+.row {
+  background: #C7C8D1;
+}
+#editor {
+  height: 60rem;
+  background: #F1EFFA;
+  font-family: monospace;
+  color: black;
+  padding: 2%;
+}
+
+#preview {
+  background: #F1EFFA;
+  color: black;
+  padding: 2%;
+  
+  blockquote {
+    border-left: 0.5rem solid #776080;
+    padding-left: 10px;
+    color: #776080;
+  }
+  
+  table, th, td {
+    border-collapse: collapse;
+    border-spacing: 20px;
+    border:0.2px solid black;
+  }
+  
+  mark {
+    background-color: #A996B0;
+  }
+  
+}
+
+.headerElem {
+    background-color: black;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+h1, h3 {
+    font-weight: bold;
+}
+
+img {
+  max-width: 50%;
+}
+
+@media screen and (max-width: 420px) {
+  body {
+    font-size: 0.875rem;
+  }
+}
